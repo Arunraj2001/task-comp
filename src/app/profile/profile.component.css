@@ -1,0 +1,21 @@
+.sam{
+    text-align: center;
+    
+}
+.btn2{
+    float: right;
+    background-color: green;
+}
+.btn1{
+    background-color: aliceblue;
+}
+ .prf{
+    border: 1px solid black;
+width: 55%;
+padding: 10px;
+padding-bottom: 10px;
+margin-top: 30%;
+margin: auto;
+background-color: azure;
+
+}
